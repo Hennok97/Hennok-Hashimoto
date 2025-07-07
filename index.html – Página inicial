@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Meu Portfólio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Menu de navegação visível em todas as páginas -->
+    <nav>
+        <ul>
+            <li><a href="index.html">Início</a></li>
+            <li><a href="sobre.html">Sobre mim</a></li>
+            <li><a href="formacao.html">Formação</a></li>
+            <li><a href="portfolio.html">Portfólio</a></li>
+            <li><a href="contato.html">Contato</a></li>
+        </ul>
+    </nav>
+
+    <!-- Conteúdo principal da página inicial -->
+    <main>
+        <h1>Bem-vindo ao meu site pessoal!</h1>
+        <p>Este site foi desenvolvido como parte da atividade prática da disciplina de Ferramentas de Desenvolvimento Web da Uninter.</p>
+        <p>Explore os links acima para saber mais sobre mim, minha formação, meus projetos e como entrar em contato.</p>
+    </main>
+</body>
+</html>
